@@ -314,7 +314,7 @@ ul {
   background-color: var(--clr-blush);
   padding: 0.5rem 1.1rem;
   border-radius: var(--radius-xl);
-  width: fit-content;
+  width: fit-content; max-width: 70%;
 }
 
 .hero__headline {
